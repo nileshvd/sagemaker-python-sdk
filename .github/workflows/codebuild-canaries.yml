@@ -21,4 +21,4 @@ jobs:
         uses: aws-actions/aws-codebuild-run-build@v1
         id: codebuild
         with:
-          project-name: sagemaker-python-sdk-canaries
+          project-name: nileshvd-sagemaker-python-sdk-canaries
